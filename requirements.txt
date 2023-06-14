@@ -4,3 +4,4 @@ numpy==1.24.3
 pandas==1.4.1
 tensorflow==2.8.0
 streamlit==1.8.1
+OpenCV==4.7.0
