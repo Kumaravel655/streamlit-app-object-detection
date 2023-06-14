@@ -1,4 +1,4 @@
-
+tensorflow==2.6.0
 ultralyrics==1.2.3
 yolo==2.4.0
 lap==0.8.1
