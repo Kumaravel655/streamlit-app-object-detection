@@ -1,1 +1,6 @@
 
+ultralyrics==1.2.3
+yolo==2.4.0
+lap==0.8.1
+numpy==1.21.0
+pandas==1.2.4
